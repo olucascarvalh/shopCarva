@@ -65,6 +65,10 @@ section header p:hover{
     background: #b36982;
 }
 
+.produ {
+    color: #b36982;
+}
+
 .circle{
     position: absolute;
     top: 0;
@@ -109,7 +113,7 @@ section .texts p{
 }
 
 section .background_image img{
-    width: 750px;
+    width: 600px;
     position: absolute;
     top: 25%;
     left: 47%;
