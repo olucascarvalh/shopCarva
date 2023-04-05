@@ -65,6 +65,10 @@ section header p:hover{
     background: #b36982;
 }
 
+.produ {
+    color: #b36982;
+}
+
 .circle{
     position: absolute;
     top: 0;

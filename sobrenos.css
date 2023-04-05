@@ -68,7 +68,7 @@ header p:hover {
     font-size: 15px;
 
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -110,7 +110,7 @@ header p:hover {
     padding: 50px;
     bottom: 0;
     width: 100%;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 .footer .main {
