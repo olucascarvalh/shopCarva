@@ -105,6 +105,14 @@ header p:hover {
     width: 150px;
 }
 
+.audio {
+    padding: 10px 450px;
+}
+
+.ytb {
+    padding: 10px 300px;
+}
+
 .footer {
     background: #24262b;
     padding: 50px;
